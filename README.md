@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Ubeydullah Bilgin
+- 👨‍🎓 I am studying Electronics and Communication Engineering at Istanbul Technical University.
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python 3
+- 🌱 I’m currently learning Python 3 (I am learning myself)
+- 🌱 I’m currently learning C (I am taking a class at ITU)
 - 📫 How to reach me: ubeydullahbilgin0@gmail.com
 
 <!---
